@@ -3,7 +3,7 @@ name: MSDO ubuntu-latest
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   sample:
